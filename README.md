@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Sabari R Nadh</h1>
 <h3 align="center">An Engineer by learning, a Creator by passion</h3>
-<img align="right" alt="Coding" width="400" src=“https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif”>
+<img align="right" alt="" width="400" src= “https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabari-r-nadh&label=Profile%20views&color=0e75b6&style=flat" alt="sabari-r-nadh" /> </p>
 
